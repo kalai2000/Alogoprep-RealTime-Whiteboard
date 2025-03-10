@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+
+*{
+     box-sizing: border-box;
+}
+
+.toolbar{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.toolbar-options{
+    display: flex; 
+    gap: 40px;
+     
+}
+img{
+     
+   height: 30px;
+   width: 30px; 
+}
